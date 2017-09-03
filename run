@@ -1,3 +1,3 @@
 #!/bin/sh
-gcc sum.c -out sum
+gcc sum.c -o sum
 ./sum
